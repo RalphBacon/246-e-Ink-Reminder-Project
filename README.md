@@ -27,8 +27,8 @@ https://thingpulse.com/product/epulse-low-power-esp32-development-board/
 Buy here: https://www.adafruit.com/product/4814 (about £22 or $25)  
 or here UK: https://shop.pimoroni.com/products/adafruit-2-13-tri-color-eink-epaper-display-with-sram-red-black-white?variant=21472150028371  
 
-► Transparent lid, waterproof enclosure
-https://www.aliexpress.com/item/1005001379213071.html
+► Transparent lid, waterproof enclosure  
+https://s.click.aliexpress.com/e/_DDPwpsJ
 
 ### Older hardware links you found useful:  
 ► ENGINEER brand PA06 wire stripper (I bought these November 2019 and they are best ever) Amazon UK £24.99  
